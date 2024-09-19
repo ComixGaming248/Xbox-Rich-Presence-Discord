@@ -3,6 +3,13 @@
     {
       "Games": [
         {
+          "titlename" : "Doom 3 BFG Edtion",
+          "titleimage" : "Doom 3 BFG Edtion",
+          "titleicon" : "https://assets-prd.ignimgs.com/2022/01/05/doom-3-bfg-edition-button-1641422350146.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/0d0e307e4ffe5531d2de1101f98992be.jpg",
+          "type": 1
+        },
+        {
           "titlename" : "Test Drive Unlimited",
           "titleimage" : "Test Drive Unlimited",
           "titleicon" : "https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg",
