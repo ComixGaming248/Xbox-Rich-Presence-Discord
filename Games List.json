@@ -3,7 +3,14 @@
     {
       "Games": [
         {
-           "titlename" : "Facebook",
+           "titlename" : "DRAGON BALL: Sparking! ZERO",
+          "titleimage" : "DRAGON BALL: Sparking! ZERO",
+          "titleicon" : "https://assets-prd.ignimgs.com/2024/08/21/dragonball-1724281681940.jpg?width=300&crop=1%3A1%2Csmart&auto=webp",
+          "titlebackground": "https://assets-prd.ignimgs.com/2024/10/06/dragonballsparkingzero-blogroll-1728236013031.jpg",
+          "type": 1
+        },
+        {
+          "titlename" : "Facebook",
           "titleimage" : "F",
           "titleicon" : "https://shareselfhelp.org/wp-content/uploads/2020/11/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png",
           "titlebackground": "https://www.eco-fridge.co.uk/wp-content/uploads/facebook-emotions-wallpaper-68945-71291-hd-wallpapers.jpg",
